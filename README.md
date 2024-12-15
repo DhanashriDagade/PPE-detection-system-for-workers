@@ -6,24 +6,24 @@ A deep learning-based project to enhance workplace safety by detecting Personal 
 
 This app is up and running on Streamlit cloud server!!! Thanks 'Streamlit' for the community support for the cloud upload. You can check the demo of this web application on the link below.
 
-## Tracking With Object Detection Demo
 
-<https://user-images.githubusercontent.com/104087274/234874398-75248e8c-6965-4c91-9176-622509f0ad86.mov>
+## Result
 
-## Demo Pics
+images/Screenshot 2024-03-09 131034.png
+![image](https://github.com/user-attachments/assets/535b4f34-40cf-452e-8d33-d5b756920911)
 
-### Home page
-
-<https://github.com/user-attachments/assets/58301d71-ac64-49ea-a84c-c8cc8cedac2e
->
 
 ### Page after uploading an image and object detection
 
-<img src="https://github.com/CodingMantras/yolov8-streamlit-detection-tracking/blob/master/assets/pic3.png" >
+images/Screenshot 2024-03-09 125045.png
+![image](https://github.com/user-attachments/assets/d29ebba4-1a8f-4ec2-9797-4844822b757a)
 
-### Segmentation task on image
+images/Screenshot 2024-03-09 131446.png
+![image](https://github.com/user-attachments/assets/09ca3357-9145-438d-a60d-98b3d8d2cc91)
 
-<img src="https://github.com/CodingMantras/yolov8-streamlit-detection-tracking/blob/master/assets/segmentation.png" >
+
+
+
 
 ## Requirements
 
