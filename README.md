@@ -9,17 +9,10 @@ This app is up and running on Streamlit cloud server!!! Thanks 'Streamlit' for t
 
 ## Result
 
-images/Screenshot 2024-03-09 131034.png
-![image](https://github.com/user-attachments/assets/535b4f34-40cf-452e-8d33-d5b756920911)
+![Alt text](images/Screenshot 2024-03-09 131034.png)
+![Alt text](images/Screenshot 2024-03-09 125045.png)
+![Alt text](images/Screenshot 2024-03-09 131446.png)
 
-
-### Page after uploading an image and object detection
-
-images/Screenshot 2024-03-09 125045.png
-![image](https://github.com/user-attachments/assets/d29ebba4-1a8f-4ec2-9797-4844822b757a)
-
-images/Screenshot 2024-03-09 131446.png
-![image](https://github.com/user-attachments/assets/09ca3357-9145-438d-a60d-98b3d8d2cc91)
 
 
 
