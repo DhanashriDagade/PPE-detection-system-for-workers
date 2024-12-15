@@ -1,6 +1,6 @@
 # PPE detection for workers with YOLOv8 and Streamlit
 
-This repository is a comprehensive open-source project that demonstrates the integration of object detection and tracking using the YOLOv8 object detection algorithm and Streamlit, a popular Python web application framework for building interactive web applications. This project provides a user-friendly and customizable interface that can detect and track objects in real-time video streams.
+A deep learning-based project to enhance workplace safety by detecting Personal Protective Equipment (PPE) like helmets, vests, masks, and gloves in real-time. Built using Python, OpenCV, and YOLO for accurate object detection. This system ensures compliance, generates alerts for non-compliance, and supports customization for various industries.
 
 ## Demo WebApp
 
