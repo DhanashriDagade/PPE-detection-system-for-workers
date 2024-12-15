@@ -9,9 +9,9 @@ This app is up and running on Streamlit cloud server!!! Thanks 'Streamlit' for t
 
 ## Result
 
-![Alt text](images/Screenshot 2024-03-09 131034.png)
-![Alt text](images/Screenshot 2024-03-09 125045.png)
-![Alt text](images/Screenshot 2024-03-09 131446.png)
+![Alt text](images/Screenshot1.png)
+![Alt text](images/Screenshot2.png)
+![Alt text](images/Screenshot3.png)
 
 
 
