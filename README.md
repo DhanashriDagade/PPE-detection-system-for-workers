@@ -14,7 +14,8 @@ This app is up and running on Streamlit cloud server!!! Thanks 'Streamlit' for t
 
 ### Home page
 
-<img src="https://github.com/CodingMantras/yolov8-streamlit-detection-tracking/blob/master/assets/pic1.png" >
+<https://github.com/user-attachments/assets/58301d71-ac64-49ea-a84c-c8cc8cedac2e
+>
 
 ### Page after uploading an image and object detection
 
